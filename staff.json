@@ -1,0 +1,10 @@
+{
+  "employees":[
+{"firstName":"Mike", "lastName":"Holmes", "role":"Site Supervisor", "wage":21.55},
+  {"firstName":"Karen", "lastName":"Laine", "role":"Construction Lead", "wage":19.00},
+  {"firstName":"Drew", "lastName":"Scott", "role":"Labourer", "wage":15.00},
+  {"firstName":"Marjorie", "lastName":"Blue", "role":"Labourer", "wage":15.00},
+  {"firstName":"Karen", "lastName":"Smith", "role":"Site Supervisor", "wage":21.55},
+  {"firstName":"Andrea", "lastName":"Vargehese", "role":"Construction Lead", "wage":19.00},
+  {"firstName":"Bob", "lastName":"Viola", "role":"Labourer", "wage":15.00}]
+}
